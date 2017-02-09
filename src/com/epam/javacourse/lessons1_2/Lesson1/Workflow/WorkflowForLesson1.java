@@ -1,9 +1,12 @@
-package com.epam.javacourse.lessons1_2.Lesson1;
+package com.epam.javacourse.lessons1_2.Lesson1.Workflow;
+
+import com.epam.javacourse.lessons1_2.Lesson1.Objects.Circle;
+import com.epam.javacourse.lessons1_2.Lesson1.Objects.Utils;
 
 /**
  * Created by Natallia_Lahun on 02/09/2017.
  */
-public class Test {
+public class WorkflowForLesson1 {
 
     public static void main (String[] args){
         Circle circle = new Circle(5);

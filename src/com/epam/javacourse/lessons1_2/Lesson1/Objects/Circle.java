@@ -1,4 +1,4 @@
-package com.epam.javacourse.lessons1_2.Lesson1;
+package com.epam.javacourse.lessons1_2.Lesson1.Objects;
 
 /**
  * Created by Natallia_Lahun on 02/08/2017.

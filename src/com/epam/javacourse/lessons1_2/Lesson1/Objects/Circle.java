@@ -1,4 +1,4 @@
-package com.epam.javacourse.lessons1_2.Lesson1.Objects;
+package com.epam.javacourse.lessons1_2.Lesson1.Objects;// пакеты не именуются большими буквами, и с большими буквами тоже
 
 /**
  * Created by Natallia_Lahun on 02/08/2017.
